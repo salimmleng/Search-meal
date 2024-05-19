@@ -1,0 +1,53 @@
+#userInput{
+    width: 40%;
+    height: 10vh;
+    box-shadow: 4px 4px 8px gray;
+    border-radius: 5px;
+    border: none;
+}
+#btn{
+    width: 10%;
+    height: 8vh;
+    padding: 5px;
+    background-color: rgb(106, 198, 26);
+    color: white;
+    border: none;
+    border-radius: 5px;
+
+
+}
+#btn-container{
+    text-align: center;
+    padding: 60px;
+    margin-top: 100px;
+}
+
+.cart-img{
+    width: 200px;
+}
+#product-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: auto;
+    gap: 15px;
+   
+}
+.card{
+    /* border: 1px solid gray; */
+    box-shadow: 4px 4px 8px gray;
+    width: 200px;
+}
+.card1{
+    
+    box-shadow: 4px 4px 8px gray;
+    width: 200px;
+    margin-left: 500px;
+}
+
+
+
+
+
+
